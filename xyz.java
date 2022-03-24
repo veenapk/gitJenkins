@@ -1,6 +1,6 @@
 class xyz {
   public static main(String args[])
   {
-  System.out.println("java jenkins ");
+  System.out.println("java   jenkins ");
   }
 }
